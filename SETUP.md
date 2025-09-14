@@ -72,7 +72,7 @@ mysql -u rating_user -p rating_system
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rushikeshbhoyar12/new-store.git
 cd store-rating-system
 ```
 
